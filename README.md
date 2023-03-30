@@ -15,7 +15,7 @@ object programacionConObjetos {
 ```
 
 ## Datos de la cursada :book:
-* Modalidad Mixta
+* Modalidad Mixta_
 * Horario comisión **turno noche**: Martes y Jueves 18hs.
 * Horario comisión **turno mañana**: Lunes y Jueves 8hs.
 * Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
